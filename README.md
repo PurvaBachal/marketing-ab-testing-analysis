@@ -1,4 +1,4 @@
-# Marketing Campaign Effectiveness — A/B Test Analysis
+# Marketing Campaign — A/B Test Analysis
 
 ## Business Problem
 
